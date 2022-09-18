@@ -1,9 +1,14 @@
 # G-DRG_1
 
-This csv file contains data from the the case-based hospital statistics data set 23141-0103 from the Federal Statistical Department of Germany (title: "Operations and procedures for inpatients: Germany, years, sex, age groups, patient's place of residence, operations and procedures"; https://www-genesis.destatis.de).  
+This csv file contains data from data set 23141-0103 of the case-related hospital statistics of the Federal Statistical Office (title: "Operations and Procedures in Inpatients: Germany, years, sex, age groups, patients' place of residence, operations and procedures"; https://www-genesis.destatis.de).  
 
 23141-0103.xlsx
-shows the dataset from the server from the Federal Statistical Department of Germany
+shows the data set from the server of the German Federal Statistical Office
 
+wide_23141-0103.csv
+The data have been arranged in a wide format 
 
-Current data are summerized from the database in a "wide" table format. 
+long_23141-0103.csv
+And then organized in a long format. 
+
+This long format was used for further calculations. 
